@@ -1,0 +1,11 @@
+{
+  "SchooDb": [
+    { "id": 1, "moduleName": "Web Design", "questionNOS": "5" ,"correctAn":"3","wrongAnswers":"2 ","timeSpent":"20"},
+    { "id": 2, "moduleName": "OOP", "questionNOS": "10" ,"correctAn":"0","wrongAnswers":" ","timeSpent":""},
+    { "id": 3, "moduleName": "PP2", "questionNOS": "12" ,"correctAn":"0","wrongAnswers":" ","timeSpent":""}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
